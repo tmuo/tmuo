@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tmuo
-- 👀 I’m interested in machine vision and rasberry setups.
-- 🌱 I’m currently learning CNN LSTMs and Rasberry GPIO applications.
+- 👀 I’m interested in application using CV and ML.
 
 <!---
 tmuo/tmuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
